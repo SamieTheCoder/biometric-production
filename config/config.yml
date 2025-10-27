@@ -1,0 +1,20 @@
+# Cloudflare Tunnel Configuration
+# Replace TUNNEL_ID with your actual tunnel ID from tunnel creation
+
+tunnel: 53f369e7-73bd-45c9-b8a8-1876d6ea4518
+credentials-file: C:\Users\scien\.cloudflared\53f369e7-73bd-45c9-b8a8-1876d6ea4518.json
+
+# Ingress rules - routes traffic from your domain to local services
+ingress:
+  # Route your domain to the biometric server
+  - hostname: biometric.trackyfy.in.net
+    service: http://localhost:3000
+    originRequest:
+      noTLSVerify: true
+      connectTimeout: 30s
+      
+  # Catch-all rule (required)
+  - service: http_status:404
+
+# Optional: Metrics for monitoring
+metrics: localhost:2000

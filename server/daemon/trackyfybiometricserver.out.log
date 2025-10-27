@@ -1,0 +1,81 @@
+[32minfo[39m: ============================================================ {"timestamp":"2025-10-27T08:23:18.151Z"}
+[32minfo[39m: 🚀 ESSL Biometric Server STARTED {"timestamp":"2025-10-27T08:23:18.152Z"}
+[32minfo[39m: 📡 Server URL: http://0.0.0.0:3000 {"timestamp":"2025-10-27T08:23:18.152Z"}
+[32minfo[39m: 🌍 Environment: production {"timestamp":"2025-10-27T08:23:18.153Z"}
+[32minfo[39m: 📝 Logs Directory: C:\biometric-server-production\logs {"timestamp":"2025-10-27T08:23:18.153Z"}
+[32minfo[39m: ============================================================ {"timestamp":"2025-10-27T08:23:18.153Z"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:24:00.556Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:24:06.139Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
+[32minfo[39m: ============================================================ {"timestamp":"2025-10-27T08:26:10.228Z"}
+[32minfo[39m: 🚀 ESSL Biometric Server STARTED {"timestamp":"2025-10-27T08:26:10.234Z"}
+[32minfo[39m: 📡 Server URL: http://0.0.0.0:3000 {"timestamp":"2025-10-27T08:26:10.235Z"}
+[32minfo[39m: 🌍 Environment: production {"timestamp":"2025-10-27T08:26:10.235Z"}
+[32minfo[39m: 📝 Logs Directory: C:\biometric-server-production\logs {"timestamp":"2025-10-27T08:26:10.235Z"}
+[32minfo[39m: ============================================================ {"timestamp":"2025-10-27T08:26:10.235Z"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:32.971Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET /favicon.ico {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:33.327Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[33mwarn[39m: 404 Not Found: GET /favicon.ico {"timestamp":"2025-10-27T08:26:33.327Z"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:40.204Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:41.553Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:44.284Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:45.306Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:26:46.017Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+[32minfo[39m: GET / {"ip":"127.0.0.1","timestamp":"2025-10-27T08:29:24.134Z"}
+[32minfo[39m: POST /api/devices/test-connection {"ip":"127.0.0.1","timestamp":"2025-10-27T08:29:28.262Z"}
+🔌 Connecting to 192.168.1.201:4370...
+ok tcp
+✅ Successfully connected to 192.168.1.201:4370
+[32minfo[39m: GET /api/devices/info?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:29:37.259Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: GET /api/devices/info?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:29:37.544Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: POST /api/users/create {"ip":"127.0.0.1","timestamp":"2025-10-27T08:29:59.311Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+Built timezone 1: enabled=true
+Built timezone 99: enabled=false
+✅ Timezones initialized successfully
+Assigned user 100 to timezone 1
+[32minfo[39m: DELETE /api/users/delete {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:07.345Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: POST /api/users/create {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:14.383Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+Assigned user 2 to timezone 1
+[32minfo[39m: POST /api/users/enroll-fingerprint {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:20.932Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: GET /api/users/list?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:32.013Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: POST /api/users/disable {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:50.109Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+Assigned user 2 to timezone 99
+❌ User 2 disabled - assigned to TZ 99
+[32minfo[39m: POST /api/users/enable {"ip":"127.0.0.1","timestamp":"2025-10-27T08:30:59.326Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: POST /api/users/enable {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:05.615Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+Assigned user 2 to timezone 1
+✅ User 2 enabled - assigned to TZ 1
+[32minfo[39m: GET /api/users/status?ip=192.168.1.201&port=4370&userId=100&ip=192.168.1.201&port=4370&userId=100 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:11.919Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: GET /api/users/status?ip=192.168.1.201&port=4370&userId=2&ip=192.168.1.201&port=4370&userId=100 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:24.291Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: GET /api/attendance/logs?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:36.465Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: POST /api/attendance/clear {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:45.722Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370
+[32minfo[39m: GET /api/attendance/logs?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370 {"ip":"127.0.0.1","timestamp":"2025-10-27T08:31:57.801Z"}
+🔌 Connecting to 192.168.1.201:4370...
+♻️ Reusing existing connection to 192.168.1.201:4370

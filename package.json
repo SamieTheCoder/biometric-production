@@ -1,0 +1,38 @@
+{
+  "name": "trackyfy-biometric-server",
+  "version": "2.0.0",
+  "description": "Production-Ready ESSL Biometric Server with Cloudflare Tunnel for Trackyfy",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "install-service": "node installer/install-service.js",
+    "uninstall-service": "node installer/uninstall-service.js"
+  },
+  "keywords": [
+    "essl",
+    "biometric",
+    "attendance",
+    "trackyfy",
+    "production",
+    "cloudflare-tunnel"
+  ],
+  "author": "Trackyfy Team",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "node-zklib": "^1.3.0",
+    "winston": "^3.11.0",
+    "node-windows": "^1.0.0-beta.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

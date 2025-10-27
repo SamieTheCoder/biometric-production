@@ -1,0 +1,18 @@
+2025-10-27 13:53:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\biometric-server-production\node_modules\node-windows\lib\wrapper.js --file C:\biometric-server-production\server\server.js --scriptoptions= --log "Trackyfy Biometric Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-27 13:53:17 - Started 17948
+2025-10-27 13:54:46 - Stopping trackyfybiometricserver.exe
+2025-10-27 13:54:46 - ProcessKill 17948
+2025-10-27 13:54:46 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2025-10-27 13:56:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\biometric-server-production\node_modules\node-windows\lib\wrapper.js --file C:\biometric-server-production\server\server.js --scriptoptions= --log "Trackyfy Biometric Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-10-27 13:56:09 - Started 8636
