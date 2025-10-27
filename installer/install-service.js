@@ -18,7 +18,7 @@ const svc = new Service({
     },
     {
       name: "PORT",
-      value: "3000"
+      value: "6000"
     }
   ]
 });
@@ -34,7 +34,7 @@ svc.on('install', function() {
 svc.on('start', function() {
   console.log('✅ Service started successfully!');
   console.log('🚀 Trackyfy Biometric Server is now running as a Windows Service');
-  console.log('📡 Server URL: http://localhost:3000');
+  console.log('📡 Server URL: http://localhost:6000');
   console.log('\nTo manage this service:');
   console.log('  - Open Services (services.msc)');
   console.log('  - Find "Trackyfy Biometric Server"');

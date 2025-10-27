@@ -1,13 +1,13 @@
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:13:49.596Z"}
 {"level":"info","message":"🚀 ESSL Biometric Server STARTED","timestamp":"2025-10-27T07:13:49.597Z"}
-{"level":"info","message":"📡 Server URL: http://0.0.0.0:3000","timestamp":"2025-10-27T07:13:49.599Z"}
+{"level":"info","message":"📡 Server URL: http://0.0.0.0:6000","timestamp":"2025-10-27T07:13:49.599Z"}
 {"level":"info","message":"🌍 Environment: production","timestamp":"2025-10-27T07:13:49.599Z"}
 {"level":"info","message":"📝 Logs Directory: C:\\biometric-server-production\\logs","timestamp":"2025-10-27T07:13:49.600Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:13:49.600Z"}
 {"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T07:14:04.059Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:24:38.688Z"}
 {"level":"info","message":"🚀 ESSL Biometric Server STARTED","timestamp":"2025-10-27T07:24:38.690Z"}
-{"level":"info","message":"📡 Server URL: http://0.0.0.0:3000","timestamp":"2025-10-27T07:24:38.690Z"}
+{"level":"info","message":"📡 Server URL: http://0.0.0.0:6000","timestamp":"2025-10-27T07:24:38.690Z"}
 {"level":"info","message":"🌍 Environment: production","timestamp":"2025-10-27T07:24:38.690Z"}
 {"level":"info","message":"📝 Logs Directory: C:\\biometric-server-production\\logs","timestamp":"2025-10-27T07:24:38.690Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:24:38.690Z"}
@@ -21,7 +21,7 @@
 {"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T07:24:52.313Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:26:31.263Z"}
 {"level":"info","message":"🚀 ESSL Biometric Server STARTED","timestamp":"2025-10-27T07:26:31.264Z"}
-{"level":"info","message":"📡 Server URL: http://0.0.0.0:3000","timestamp":"2025-10-27T07:26:31.265Z"}
+{"level":"info","message":"📡 Server URL: http://0.0.0.0:6000","timestamp":"2025-10-27T07:26:31.265Z"}
 {"level":"info","message":"🌍 Environment: production","timestamp":"2025-10-27T07:26:31.265Z"}
 {"level":"info","message":"📝 Logs Directory: C:\\biometric-server-production\\logs","timestamp":"2025-10-27T07:26:31.265Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T07:26:31.265Z"}
@@ -30,7 +30,7 @@
 {"level":"warn","message":"404 Not Found: GET /favicon.ico","timestamp":"2025-10-27T07:32:50.508Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T08:23:18.151Z"}
 {"level":"info","message":"🚀 ESSL Biometric Server STARTED","timestamp":"2025-10-27T08:23:18.152Z"}
-{"level":"info","message":"📡 Server URL: http://0.0.0.0:3000","timestamp":"2025-10-27T08:23:18.152Z"}
+{"level":"info","message":"📡 Server URL: http://0.0.0.0:6000","timestamp":"2025-10-27T08:23:18.152Z"}
 {"level":"info","message":"🌍 Environment: production","timestamp":"2025-10-27T08:23:18.153Z"}
 {"level":"info","message":"📝 Logs Directory: C:\\biometric-server-production\\logs","timestamp":"2025-10-27T08:23:18.153Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T08:23:18.153Z"}
@@ -38,7 +38,7 @@
 {"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:24:06.139Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T08:26:10.228Z"}
 {"level":"info","message":"🚀 ESSL Biometric Server STARTED","timestamp":"2025-10-27T08:26:10.234Z"}
-{"level":"info","message":"📡 Server URL: http://0.0.0.0:3000","timestamp":"2025-10-27T08:26:10.235Z"}
+{"level":"info","message":"📡 Server URL: http://0.0.0.0:6000","timestamp":"2025-10-27T08:26:10.235Z"}
 {"level":"info","message":"🌍 Environment: production","timestamp":"2025-10-27T08:26:10.235Z"}
 {"level":"info","message":"📝 Logs Directory: C:\\biometric-server-production\\logs","timestamp":"2025-10-27T08:26:10.235Z"}
 {"level":"info","message":"============================================================","timestamp":"2025-10-27T08:26:10.235Z"}
@@ -67,3 +67,21 @@
 {"ip":"127.0.0.1","level":"info","message":"GET /api/attendance/logs?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370","timestamp":"2025-10-27T08:31:36.465Z"}
 {"ip":"127.0.0.1","level":"info","message":"POST /api/attendance/clear","timestamp":"2025-10-27T08:31:45.722Z"}
 {"ip":"127.0.0.1","level":"info","message":"GET /api/attendance/logs?ip=192.168.1.201&port=4370&ip=192.168.1.201&port=4370","timestamp":"2025-10-27T08:31:57.801Z"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:29.536Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:34.056Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:37.477Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:38.335Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:39.649Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:53.377Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:56.063Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:57.068Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:57.968Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:42:58.907Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:43:00.195Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T08:47:31.841Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:13:29.150Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:13:30.204Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:13:30.853Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:14:25.778Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:14:42.563Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
+{"ip":"127.0.0.1","level":"info","message":"GET /","timestamp":"2025-10-27T09:14:54.882Z","userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1"}
