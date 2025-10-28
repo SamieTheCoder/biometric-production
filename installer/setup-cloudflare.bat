@@ -63,7 +63,7 @@ echo credentials-file: C:\Users\%USERNAME%\.cloudflared\TUNNEL_ID.json
 echo.
 echo ingress:
 echo   - hostname: biometric.yourdomain.com
-echo     service: http://localhost:6000
+echo     service: http://localhost:3000
 echo   - service: http_status:404
 echo.
 pause

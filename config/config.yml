@@ -8,7 +8,7 @@ credentials-file: C:\Users\scien\.cloudflared\53f369e7-73bd-45c9-b8a8-1876d6ea45
 ingress:
   # Route your domain to the biometric server
   - hostname: biometric.trackyfy.in.net
-    service: http://localhost:6000
+    service: http://localhost:3000
     originRequest:
       noTLSVerify: true
       connectTimeout: 30s
